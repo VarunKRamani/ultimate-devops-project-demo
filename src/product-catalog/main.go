@@ -322,3 +322,4 @@ func createClient(ctx context.Context, svcAddr string) (*grpc.ClientConn, error)
 
 // CI verification test comment
 // Dummy verification change
+// Dummy verification change
